@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">LiuXiu</string>
     <string name="logo">Logo</string>
+    <string name="email">Email</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="sign_in_with_facebook">Sign in with Facebook</string>
+    <string name="img_google">Image Logo Google</string>
+    <string name="img_facebook">Image Logo facebook</string>
+    <string name="or">OR</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="sign_in_with_email">Sign in with email</string>
 </resources>
